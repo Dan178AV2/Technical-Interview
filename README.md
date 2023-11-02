@@ -7,7 +7,7 @@ Lista de ejercios a Resolver
 
 > P.D: Igualmente lo notaremos. 
 
-1 - [Manipulacion de datos](1_prueba.py)
+1 - [Manipulacion de datos]
  * Completar codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
 
 
