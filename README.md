@@ -8,6 +8,7 @@ Lista de ejercios a Resolver
 > P.D: Igualmente lo notaremos. 
 
 1 - [Manipulacion de datos](1_prueba.py)
+## Problemática:
  * Completar codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
 
 
@@ -21,6 +22,7 @@ Lista de ejercios a Resolver
 
 ---
 2 - [Logica]()
+## Problemática:
  * Graficar con un scatter de matplotlib la expresión matemática x elevado a x (x^x) con 100 números entre 0 y 1, el gráfico resultante debe ser igual a la siguiente imagen
  
 ## Instrucciones 
@@ -30,3 +32,21 @@ Lista de ejercios a Resolver
 ## Resultado Esperado
 
 ![Texto alternativo](Figure_1.png)
+
+
+---
+ 3- [Lógica y transformación de datos](4_excercise.py)
+
+## Problemática:
+* El dueño de un parque contrató a una empresa para registrar la temperatura de diversos lugares, la empresa contaba con un termómetro que registraba los datos en centígrados y otro que registraba los datos en fahrenheit, lo unió todo y entregó los resultados juntos. Te contrato para que grafiques los datos en centigrados dentro de un mapa de scatter.
+
+## Instrucciones: 
+>Tienes una clase llamada Ponquesito dentro del archivo modulo.py, debes seguir transformar la data que se encuentra en el codigo para poder usar la clase Ponquesito, ya esta listo el codigo que realiza . No se puede modificar la clase Ponquesito.
+---
+4 -[Optimizacion y mejora](modulo.py)
+ ## Instrucciones:
+>Entra a la clase Ponquesito y explica que mejoras y correcciones podrias hacerle al codigo y resuelve la problematica con tu nueva clase mejorada.
+
+## Resultado Esperado
+
+![Texto alternativo](Result Prueba Tecnica.png)
