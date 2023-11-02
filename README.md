@@ -3,7 +3,7 @@ Lista de ejercios a Resolver
 > Note: no usar ia ( sabemos que el dia a dia de un programador la usamos pero esta vez necesitamos ver su razonamiento)
 P.D: Igualmente lo notaremos. 
 
-1 - [Manipulacion de datos](prueba.py)
+1 - [Manipulacion de datos](1_prueba.py)
  * Escribir codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
 
 ## Instrucciones
