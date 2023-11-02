@@ -49,4 +49,4 @@ Lista de ejercios a Resolver
 
 ## Resultado Esperado
 
-![Texto alternativo](Result_Prueba_Tecnica..png)
+![Texto alternativo](Result_Prueba_Tecnica.png)
