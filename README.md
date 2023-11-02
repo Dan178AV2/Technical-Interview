@@ -7,7 +7,7 @@ Lista de ejercios a Resolver
 
 > P.D: Igualmente lo notaremos. 
 
-1 - [Manipulacion de datos]
+1 - [Manipulacion de datos](1_prueba.py)
  * Completar codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
 
 
@@ -20,7 +20,7 @@ Lista de ejercios a Resolver
 ![Texto alternativo](prueba1.png)
 
 ---
-2 - [Logica]
+2 - [Logica]()
  * Graficar con un scatter de matplotlib la expresión matemática x elevado a x (x^x) con 100 números entre 0 y 1, el gráfico resultante debe ser igual a la siguiente imagen
  
 ## Instrucciones 
