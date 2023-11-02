@@ -41,7 +41,7 @@ Lista de ejercios a Resolver
 * El dueño de un parque contrató a una empresa para registrar la temperatura de diversos lugares, la empresa contaba con un termómetro que registraba los datos en centígrados y otro que registraba los datos en fahrenheit, lo unió todo y entregó los resultados juntos. Te contrato para que grafiques los datos en centigrados dentro de un mapa de scatter.
 
 ## Instrucciones: 
->Tienes una clase llamada Ponquesito dentro del archivo modulo.py, debes seguir transformar la data que se encuentra en el codigo para poder usar la clase Ponquesito, ya esta listo el codigo que realiza . No se puede modificar la clase Ponquesito.
+>Tienes una clase llamada Ponquesito dentro del archivo modulo.py, debes seguir las instrucciones dentro del archivo y transformar la data que se encuentra en el codigo para poder usar la clase Ponquesito, ya esta listo el codigo que realiza el grafico. No se puede modificar la clase Ponquesito.
 ---
 4 -[Optimizacion y mejora](modulo.py)
  ## Instrucciones:
