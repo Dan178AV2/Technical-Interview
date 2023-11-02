@@ -42,11 +42,13 @@ Lista de ejercios a Resolver
 
 ## Instrucciones: 
 >Tienes una clase llamada Ponquesito dentro del archivo modulo.py, debes seguir las instrucciones dentro del archivo y transformar la data que se encuentra en el codigo para poder usar la clase Ponquesito, ya esta listo el codigo que realiza el grafico. No se puede modificar la clase Ponquesito.
+
+## Resultado Esperado
+
+![Texto alternativo](Result_Prueba_Tecnica.png)
 ---
 4 -[Optimizacion y mejora](modulo.py)
  ## Instrucciones:
 >Entra a la clase Ponquesito y explica que mejoras y correcciones podrias hacerle al codigo y resuelve la problematica con tu nueva clase mejorada.
 
-## Resultado Esperado
 
-![Texto alternativo](Result_Prueba_Tecnica.png)
