@@ -8,8 +8,10 @@ Lista de ejercios a Resolver
 > P.D: Igualmente lo notaremos. 
 
 1 - [Manipulacion de datos](1_prueba.py)
- * Escribir codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
+ * Completar codigo que lea un  archivo JSON, los lee y los manipula de varias maneras, y finalmente visualiza los datos en un gráfico de dispersión
 
+
+> P.D Toca en aqui para ver el codigo completo [Manipulacion de datos](1_prueba.py)
 ## Instrucciones
 
 > Lee los datos desordenados del archivo 'data.json' y los ordena por el valor de 'x' en orden descendente e Itera sobre los elementos de MODULES, filtra los datos y genera > una gráfica de dispersión de los datos filtrados. La opacidad del color de los puntos en la gráfica de dispersión se determina por el valor de 'type'.
