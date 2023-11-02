@@ -8,3 +8,6 @@ P.D: Igualmente lo notaremos.
 
 ## Instrucciones
 > Itera sobre los elementos de MODULES, filtra los datos utilizando la función filterd_z y genera > una gráfica de dispersión de los datos filtrados. La opacidad del color de los puntos en la  >gráfica de dispersión se determina por el valor de 'type'.
+>
+## Resultado Esperado
+![Texto alternativo](prueba1.png)
