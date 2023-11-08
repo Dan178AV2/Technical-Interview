@@ -51,3 +51,5 @@ Lista de ejercios a Resolver
  ## Instrucciones:
 >Entra a la clase Ponquesito y explica que mejoras y correcciones podrias hacerle al codigo y resuelve la problematica con tu nueva clase mejorada.
 
+
+## Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com suerte 🍀
