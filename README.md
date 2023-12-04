@@ -45,7 +45,7 @@ Lista de ejercios a Resolver
 
 ## Resultado Esperado
 
-![Texto alternativo](Result_Prueba_Tecnica.png)
+![Texto alternativo](Result_Prueba_Tecnicav2.png)
 ---
 4 -[Optimizacion y mejora](modulo.py)
  ## Instrucciones:
