@@ -54,7 +54,7 @@ Lista de ejercios a Resolver
 
 ## Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com suerte 🍀
 
-5 - Prueba Tecnica de UI vue 2 o vue 3 o React
+5 - Prueba Tecnica de UI vue 2 o vue 3 o React ( Solo si eres Frontend)
 
 ![Texto alternativo](UI.png)
 
