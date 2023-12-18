@@ -56,4 +56,4 @@ Lista de ejercios a Resolver
 
 ![Texto alternativo](UI.png)
 
-## Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com suerte 🍀
+## Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com Si tienes algun Duda puedes contantarte a este correo suerte 🍀
