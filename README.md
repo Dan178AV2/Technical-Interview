@@ -15,7 +15,7 @@ Lista de ejercios a Resolver
 > P.D Toca en aqui para ver el codigo completo [Manipulacion de datos](1_prueba.py)
 ## Instrucciones
 
-> Lee los datos desordenados del archivo 'data.json' y los ordena por el valor de 'x' en orden descendente e Itera sobre los elementos de MODULES, filtra los datos y genera > una gráfica de dispersión de los datos filtrados. La opacidad del color de los puntos en la gráfica de dispersión se determina por el valor de 'type'.
+> Este código en Python carga datos de un archivo JSON (data.json ), los ordena, filtra y genera una gráfica de dispersión. La opacidad de los puntos en la gráfica se determina por el valor de 'tipo', que se calcula a partir del valor de 'z' en los datos
 >
 ## Resultado Esperado
 ![Texto alternativo](prueba1.png)
