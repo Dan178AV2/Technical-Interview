@@ -1,6 +1,12 @@
 # Technical-Interview
-Lista de ejercios a Resolver 
-### Recomendacion leer Matplolib
+
+
+# Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com 
+
+## Si tienes alguna Duda, No dudes En preguntar a este correo suerte 🍀
+
+
+# Lista de ejercios a Resolver (Recomendacion leer Matplolib)
 -----
 > Note: no usar ia ( sabemos que el dia a dia de un programador la usamos pero esta vez necesitamos ver su razonamiento).
 
@@ -52,8 +58,8 @@ Lista de ejercios a Resolver
 >Entra a la clase Ponquesito y explica que mejoras y correcciones podrias hacerle al codigo y resuelve la problematica con tu nueva clase mejorada.
 
 
-5 - Prueba Tecnica de UI vue 2 o vue 3 o React ( Solo si eres Frontend)
+5 - Prueba Tecnica de UI vue 2 o vue 3 o React ( Solo si eres Frontend )
 
 ![Texto alternativo](UI.png)
 
-## Importante Resultados del codigo Enviar a este correo: daniel.silva@ea2technology.com Si tienes algun Duda puedes contantarte a este correo suerte 🍀
+
